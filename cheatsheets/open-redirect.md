@@ -15,3 +15,7 @@
 ```
 //www.google.com/%2e%2e
 ```
+
+ ```
+http:google.com
+```
